@@ -1,0 +1,66 @@
+.summary {
+  width: 80%;
+  max-width: 450px;
+  margin: 0 auto;
+}
+
+.summmary-heading {
+  text-align: center;
+  margin-top: 1.5rem;
+}
+
+.summary-one-day {
+  margin-top: 2rem;
+  padding: 1rem;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-shadow: 0px 3px 10px 3px rgb(233, 233, 233);
+}
+
+.summary-one-day-days {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.summary-one-day-days-flex-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.summary-one-day-heading {
+  margin-bottom: 0.65rem;
+  font-size: 0.9rem;
+  text-decoration: underline;
+}
+
+.summary-one-day-hours {
+  display: flex;
+  justify-content: center;
+  margin: 2rem auto 2rem auto;
+}
+
+.summary-one-day-delete-btn {
+  border-radius: 0;
+  border: none;
+  padding: 0.5rem 0.7rem;
+  color: black;
+  box-shadow: 0px 3px 2px 1px rgb(233, 233, 233);
+}
+
+.delete-all-btn {
+  display: block;
+  margin: 2.5rem auto 2rem auto;
+  border-radius: 0;
+  border: none;
+  padding: 0.8rem 2rem;
+  color: whitesmoke;
+  font-weight: bold;
+  box-shadow: 0px 3px 2px 1px rgb(233, 233, 233);
+  background-color: rgb(221, 0, 0);
+}
