@@ -31,6 +31,8 @@
 
 <br>
 
+_**( this badge is linked to the original JS repo, which was later transformed into this TypeScript repo )**_
+
 [![wakatime](https://wakatime.com/badge/github/gaz647/beneeto-hours.svg)](https://wakatime.com/badge/github/gaz647/beneeto-hours)
 
 <br>
