@@ -20,7 +20,7 @@
 ![react badge](https://img.shields.io/badge/REACT-00D8FF?style=for-the-badge&labelColor=black)
 ![redux toolkit badge](https://img.shields.io/badge/REDUX%20TOOLKIT-7649BB?style=for-the-badge&labelColor=black)
 ![moment js badge](https://img.shields.io/badge/MOMENT.JS-71BCB2?style=for-the-badge&labelColor=black)
-![html badge](https://img.shields.io/badge/LOCAL%20STORAGE-F1D624?style=for-the-badge)
+![local storage badge](https://img.shields.io/badge/LOCAL%20STORAGE-F1D624?style=for-the-badge)
 ![vite badge](https://img.shields.io/badge/VITE-BA37FE?style=for-the-badge)
 ![netlify badge](https://img.shields.io/badge/NETLIFY-00BEBB?style=for-the-badge)
 
